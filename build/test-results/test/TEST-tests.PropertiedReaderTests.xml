@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.PropertiedReaderTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-25T17:11:00" hostname="WSA-043-21-BY" time="0.104">
+  <properties/>
+  <testcase name="simpleReaderTests()" classname="tests.PropertiedReaderTests" time="0.104"/>
+  <system-out><![CDATA[https://google.com
+true
+3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
